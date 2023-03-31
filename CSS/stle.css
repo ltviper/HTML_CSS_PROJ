@@ -87,6 +87,7 @@ li:first-child {
 }
 */
 
+/* psuedo class */
 nav a:link { 
 
     font-size: 18px; 
